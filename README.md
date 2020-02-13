@@ -1,36 +1,4 @@
-# rei-hino
+# FRC Vision Tracking stuffs
+![SAILOR MARS!!!!!](https://66.media.tumblr.com/2ceafcbda86bbcd81a4514b0cac10b3d/tumblr_n83r4lA2lH1r16thao1_500.gif)
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar rei-hino-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2020 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Neural network stuff with Jetson and also just like any other Linux machine
