@@ -3,6 +3,8 @@
 
 Neural network stuff with Jetson and also just like any other Linux machine
 
+This project is named for Sailor Mars from Sailor Moon, just in case anyone asks
+
 ### TODO
 - Set up network tables
 - Link to Darknet
