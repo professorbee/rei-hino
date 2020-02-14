@@ -3,6 +3,6 @@
 
 Neural network stuff with Jetson and also just like any other Linux machine
 
-TODO
+### TODO
 - Set up network tables
 - Link to Darknet
